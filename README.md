@@ -6,8 +6,8 @@ This is <code>lamadaemon (Aka Qumolama.d Lama3L9R)</code>'s GitHub alt account! 
 
 ## My Tech Stack
 
-+ Familiar languages: `English` `Java` `Kotlin` `Javascript` `Typescript` `C` `ARMv8 Assembly`
-+ Not that familiar: `Chinese` `CSharp` `Rust` `Dart`
++ Familiar languages: `English` `Java` `Kotlin` `Javascript` `Typescript` `C` `ARMv8 Assembly` `Rust`
++ Not that familiar: `Chinese` `CSharp` `Dart`
 + Languages, which I Commonly use: `Typescript` `C`
 + Frameworks I commonly use: `fastify` `React` `Flutter`
 
@@ -17,17 +17,16 @@ I Hate: C++ (But not C), Python, Green Peas（I will get nausea if I eat them）
 
 + [Greatest Opensource Divergence Meter](https://github.com/Lama3L9R/divergence-meter)
     - Its not Steins;Gate 's choice! Its my choice!
-    - [This project](https://github.com/Lama3L9R/divergence-meter-firmware) is the firmware for the old design.
-    - New firmware is written in rust and not yet published due to bad code style and unfinished features.
 + [phigros-save-manager](https://github.com/lamadaemon/phigros-save-manager)
     - A simple cloud save manager for Phigros (a rhythm game)
 + [tg-bote Greatest Telegram Bot Framework](https://github.com/Lama3L9R/tg-bote)
     - A plugin-based telegram bot framework
-    - Because my telegram account was banned, so updates are suspended.
-    - Currently, I am working on a Similar project, which aims for Discord. 
+    - Because my telegram account was banned, updates are suspended.
 + [noie.js **** IE](https://github.com/Lama3L9R/noie.js)
     - Chrome 40 has no difference from IE!
     - Stop supporting IE now by including noie.js in your project!
++ [PublicReleases](https://github.com/Lama3L9R/PublicReleases)
+    - PIRACY IS BAD!
 
 
 
